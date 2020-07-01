@@ -2,7 +2,6 @@ package com.pojo.browser;
 
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
-import org.testng.annotations.Test;
 import sun.plugin2.main.client.MozillaServiceDelegate;
 
 import java.io.FileInputStream;
