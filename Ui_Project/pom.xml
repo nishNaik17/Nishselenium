@@ -25,7 +25,7 @@
         <selenium-java>3.141.59</selenium-java>
         <testng>7.1.0</testng>
         <poi-ooxml>4.1.2</poi-ooxml>
-        <poi>poi</poi>
+        <poi>3.17</poi>
     </properties>
 
     <dependencies>
